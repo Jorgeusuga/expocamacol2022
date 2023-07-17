@@ -1,1 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body style="height: 100%">
+
+<h2>HTML Iframes</h2>
+<p>You can use the height and width attributes to specify the size of the iframe:</p>
+
+<iframe 
+    src="https://stage-fg.eventtia.com/en/public/events/devmayo2023/workshops/08d92695-670c-4d84-b30a-1b17394f5560/zoom?name=Q2FtaWxvIHA=&email=Y3BAZXZlbnR0aWEuY29t&ui_lang=en" height="500" width="100%" title="Iframe Example"
+    title="Zoom meeting"
+  sandbox="allow-forms allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-top-navigation"
+  allow="microphone; camera; fullscreen; display-capture; autoplay;"
+  allowFullScreen
+  mozallowfullscreen="true"
+  oallowfullscreen="true"
+  msallowfullscreen="true"
+>
+    
+</iframe>
+
+</body>
+</html>
+
+
+
+
 
